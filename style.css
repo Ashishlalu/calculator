@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(68, 68, 68);
+}
+button{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left: 12px;
+    margin-top: 15px;
+    border: none;
+    background-color: rgb(73, 72, 72);
+    color: white;
+    
+}
+button:hover{
+    color: black;
+    background-color: aliceblue;
+}
+.main{
+    margin-top: 150px;
+    border: solid;
+    border-radius: 10px;
+    background-color: rgb(152, 143, 128);
+}
+.ip{
+    border: solid 2px;
+    text-align: right;
+    font-size: 25px;
+}
+.id{
+    background-color: burlywood;
+}
+.id:hover{
+    background-color: rgb(234, 160, 63);   
+}
+.idd{
+    background-color: coral;
+}
+.idd:hover{
+    background-color: rgb(250, 69, 3);
+}
